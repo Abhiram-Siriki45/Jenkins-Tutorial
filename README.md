@@ -1,4 +1,4 @@
-# jenkins-tutorial
+# Jenkins-Tutorial
 
 ## Published articles:
 

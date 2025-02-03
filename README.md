@@ -1,6 +1,6 @@
 # Jenkins-Tutorial
 
-## Published articles:
+## Published Articles:
 
  - [Jenkins Tutorial - Part 1 - Pipelines Introduction](https://itnext.io/jenkins-tutorial-part-1-pipelines-bd1397cf5509)
 

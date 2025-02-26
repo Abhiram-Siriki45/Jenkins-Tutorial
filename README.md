@@ -24,7 +24,7 @@
 
 ## Contributions:
 
-All Contributions are welcomed. Help me to enrich this repository.
+All Contributions are Welcomed. Help me to enrich this repository.
 
 If you find any **bugs** in the examples, please file an issue.
 
